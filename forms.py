@@ -2,7 +2,7 @@ import flet as ft
 
 from Classes import TinkoffInvestClient
 
-INVEST_TOKEN = "t.vB2pJyW-1E9Txd0vcDmHvtQPiiFcu4YolrQCcloq5oB9x5ps_BxXNgYTd8G25h09W1wukhP15f1eE_BVIQ9IdA"
+INVEST_TOKEN = "____"
 
 client_r = TinkoffInvestClient(INVEST_TOKEN)
 
